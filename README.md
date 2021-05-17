@@ -1,4 +1,5 @@
 # Responsive-Nav-Bar
+Hosted by GitHub pages: https://jonkohjj.github.io/responsive-nav-bar/
 
 Hey there!
 This is a responsive navigation bar that is implemented purely using HTML, CSS and a tiny bit of Javascript, without the use of any libraries e.g. bootstrap etc. Feel free to try it out!
