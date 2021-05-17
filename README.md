@@ -1,5 +1,4 @@
 # Responsive-Nav-Bar
-Responsive nav bar using html, css &amp; javascript
 
 Hey there!
 This is a responsive navigation bar that is implemented purely using HTML, CSS and a tiny bit of Javascript, without the use of any libraries e.g. bootstrap etc. Feel free to try it out!
